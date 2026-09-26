@@ -1,0 +1,31 @@
+IMPORTANT QUESTION
+Create a Student Management System using AngularJS, Node.js, Express.js and MongoDB.
+
+Features:
+1. Add student
+2. Display students
+3. Search/filter students
+4. Update student
+5. Delete student
+6. Store data in MongoDB
+
+Sample fields:
+name, rollNo, course, semester, email, marks
+
+CRUD:
+POST /students -> Create
+GET /students -> Read
+PUT /students/:id -> Update
+DELETE /students/:id -> Delete
+
+Short Viva:
+ng-model: binds form input with AngularJS model.
+ng-repeat: repeats HTML for each student.
+filter: searches/filter displayed records.
+POST: inserts a new student.
+GET: reads student records.
+PUT: updates an existing student.
+DELETE: removes a student.
+MongoDB: NoSQL database used to store student records.
+Mongoose: ODM used to work with MongoDB from Node.js.
+Express: Node.js web framework used to create routes/API.
