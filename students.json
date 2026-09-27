@@ -1,7 +1,0 @@
-[
-  {"name":"Rahul Patel","rollNo":"101","course":"B.Sc Computer Science","semester":4,"email":"rahul@example.com","marks":82},
-  {"name":"Priya Shah","rollNo":"102","course":"B.Sc Computer Science","semester":4,"email":"priya@example.com","marks":91},
-  {"name":"Amit Desai","rollNo":"103","course":"B.Sc Computer Science","semester":4,"email":"amit@example.com","marks":76},
-  {"name":"Neha Patel","rollNo":"104","course":"B.Sc Computer Science","semester":4,"email":"neha@example.com","marks":88},
-  {"name":"Karan Shah","rollNo":"105","course":"B.Sc Computer Science","semester":4,"email":"karan@example.com","marks":69}
-]
